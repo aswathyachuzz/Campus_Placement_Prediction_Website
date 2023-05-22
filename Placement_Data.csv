@@ -1,0 +1,216 @@
+sl_no,gender,10th,10th_board,12th,12th_board,UG,internship,Coding,specialisation,status,salary
+1,M,67,Others,91,Others,58,No,55,AI&ML,Placed,270000
+2,M,79.33,Central,78.33,Others,77.48,Yes,86.5,CORE,Placed,200000
+3,M,65,Central,68,Central,64,No,75,CORE,Placed,250000
+4,M,56,Central,52,Central,52,No,66,AI&ML,Not Placed,
+5,M,85.8,Central,73.6,Central,73.3,No,96.8,CORE,Placed,425000
+6,M,55,Others,49.8,Others,67.25,Yes,55,CORE,Not Placed,
+7,F,46,Others,49.2,Others,79,No,74.28,CORE,Not Placed,
+8,M,82,Central,64,Central,66,Yes,67,CORE,Placed,252000
+9,M,73,Central,79,Central,72,No,91.34,CORE,Placed,231000
+10,M,58,Central,70,Central,61,No,54,CORE,Not Placed,
+11,M,58,Central,61,Central,60,Yes,62,AI&ML,Placed,260000
+12,M,69.6,Central,68.4,Central,78.3,Yes,60,AI&ML,Placed,250000
+13,F,47,Central,55,Others,65,No,62,AI&ML,Not Placed,
+14,F,77,Central,87,Central,59,No,68,CORE,Placed,218000
+15,M,62,Central,47,Central,50,No,76,AI&ML,Not Placed,
+16,F,65,Central,75,Central,69,Yes,72,AI&ML,Placed,200000
+17,M,63,Central,66.2,Central,65.6,Yes,60,CORE,Placed,300000
+18,F,55,Central,67,Central,64,No,60,CORE,Not Placed,
+19,F,63,Central,66,Central,64,No,68,AI&ML,Not Placed,
+20,M,60,Others,67,Others,70,Yes,50.48,AI&ML,Placed,236000
+21,M,62,Others,65,Others,66,No,50,AI&ML,Placed,265000
+22,F,79,Others,76,Others,85,No,95,CORE,Placed,393000
+23,F,69.8,Others,60.8,Others,72.23,No,55.53,AI&ML,Placed,360000
+24,F,77.4,Others,60,Others,64.74,Yes,92,CORE,Placed,300000
+25,M,76.5,Others,97.7,Others,78.86,No,97.4,AI&ML,Placed,360000
+26,F,52.58,Others,54.6,Central,50.2,Yes,76,AI&ML,Not Placed,
+27,M,71,Others,79,Others,66,Yes,94,CORE,Placed,240000
+28,M,63,Others,67,Others,66,No,68,AI&ML,Placed,265000
+29,M,76.76,Others,76.5,Others,67.5,Yes,73.35,AI&ML,Placed,350000
+30,M,62,Central,67,Central,58,No,77,CORE,Not Placed,
+31,F,64,Central,73.5,Central,73,No,52,AI&ML,Placed,250000
+32,F,67,Central,53,Central,65,No,64,AI&ML,Not Placed,
+33,F,61,Central,81,Central,66.4,No,50.89,AI&ML,Placed,278000
+34,F,87,Others,65,Others,81,Yes,88,CORE,Placed,260000
+35,M,62,Others,51,Others,52,No,68.44,AI&ML,Not Placed,
+36,F,69,Central,78,Central,72,No,71,AI&ML,Placed,300000
+37,M,51,Central,44,Central,57,No,64,CORE,Not Placed,
+38,F,79,Central,76,Central,65.6,No,58,AI&ML,Placed,320000
+39,F,73,Others,58,Others,66,No,53.7,AI&ML,Placed,240000
+40,M,81,Others,68,Others,64,No,93,CORE,Placed,411000
+41,F,78,Central,77,Others,80,No,60,CORE,Placed,287000
+42,F,74,Others,63.16,Others,65,Yes,65,AI&ML,Not Placed,
+43,M,49,Others,39,Central,65,No,63,AI&ML,Not Placed,
+44,M,87,Others,87,Others,68,No,95,AI&ML,Placed,300000
+45,F,77,Others,73,Others,81,Yes,89,CORE,Placed,200000
+46,F,76,Central,64,Central,72,No,58,AI&ML,Not Placed,
+47,F,70.89,Others,71.98,Others,65.6,No,68,AI&ML,Not Placed,
+48,M,63,Central,60,Central,57,Yes,78,CORE,Placed,204000
+49,M,63,Others,62,Others,68,No,64,CORE,Placed,250000
+50,F,50,Others,37,Others,52,No,65,AI&ML,Not Placed,
+51,F,75.2,Central,73.2,Central,68.4,No,65,AI&ML,Placed,200000
+52,M,54.4,Central,61.12,Central,56.2,No,67,AI&ML,Not Placed,
+53,F,40.89,Others,45.83,Others,53,No,71.2,AI&ML,Not Placed,
+54,M,80,Others,70,Others,72,No,87,AI&ML,Placed,450000
+55,F,74,Central,60,Others,69,No,78,AI&ML,Placed,216000
+56,M,60.4,Central,66.6,Others,65,No,71,AI&ML,Placed,220000
+57,M,63,Others,71.4,Others,61.4,No,68,AI&ML,Placed,240000
+58,M,68,Central,76,Central,74,No,80,CORE,Placed,360000
+59,M,74,Central,62,Others,68,No,74,CORE,Placed,268000
+60,M,52.6,Central,65.58,Others,72.11,No,57.6,AI&ML,Placed,265000
+61,M,74,Central,70,Central,72,Yes,60,AI&ML,Placed,260000
+62,M,84.2,Central,73.4,Central,66.89,No,61.6,AI&ML,Placed,300000
+63,F,86.5,Others,64.2,Others,67.4,No,59,AI&ML,Placed,240000
+64,M,61,Others,70,Others,64,No,68.5,AI&ML,Not Placed,
+65,M,80,Others,73,Others,75,No,61,CORE,Placed,240000
+66,M,54,Others,47,Others,57,No,89.69,AI&ML,Not Placed,
+67,M,83,Others,74,Others,66,No,68.92,AI&ML,Placed,275000
+68,M,80.92,Others,78.5,Others,67,No,68.71,CORE,Placed,275000
+69,F,69.7,Central,47,Central,72.7,No,79,AI&ML,Not Placed,
+70,M,73,Central,73,Central,66,Yes,70,CORE,Placed,275000
+71,M,82,Others,61,Others,62,No,89,AI&ML,Placed,360000
+72,M,75,Others,70.29,Others,71,No,95,CORE,Placed,240000
+73,M,84.86,Others,67,Others,78,No,95.5,AI&ML,Placed,240000
+74,M,64.6,Central,83.83,Others,71.72,No,86,CORE,Placed,218000
+75,M,56.6,Central,64.8,Central,70.2,No,84.27,CORE,Placed,336000
+76,F,59,Central,62,Others,77.5,No,74,AI&ML,Not Placed,
+77,F,66.5,Others,70.4,Central,71.93,No,61,AI&ML,Placed,230000
+78,M,64,Others,80,Others,65,Yes,69,CORE,Placed,500000
+79,M,84,Others,90.9,Others,64.5,No,86.04,AI&ML,Placed,270000
+80,F,69,Central,62,Central,66,No,75,CORE,Not Placed,
+81,F,69,Others,62,Others,69,Yes,67,AI&ML,Placed,240000
+82,M,81.7,Others,63,Others,67,Yes,86,CORE,Placed,300000
+83,M,63,Central,67,Central,74,No,82,AI&ML,Not Placed,
+84,M,84,Others,79,Others,68,Yes,84,AI&ML,Placed,300000
+85,M,70,Central,63,Others,70,Yes,55,AI&ML,Placed,300000
+86,F,83.84,Others,89.83,Others,77.2,Yes,78.74,AI&ML,Placed,400000
+87,M,62,Others,63,Others,64,No,67,AI&ML,Placed,220000
+88,M,59.6,Central,51,Central,60,No,75,AI&ML,Not Placed,
+89,F,66,Central,62,Central,73,No,58,AI&ML,Placed,210000
+90,F,84,Others,75,Others,69,Yes,62,AI&ML,Placed,210000
+91,F,85,Others,90,Others,82,No,92,CORE,Placed,300000
+92,M,52,Central,57,Central,50.8,No,67,AI&ML,Not Placed,
+93,F,60.23,Central,69,Central,66,No,72,CORE,Placed,230000
+94,M,52,Central,62,Central,54,No,72,AI&ML,Not Placed,
+95,M,58,Central,62,Central,64,No,53.88,AI&ML,Placed,260000
+96,M,73,Central,78,Others,65,Yes,95.46,AI&ML,Placed,420000
+97,F,76,Central,70,Central,76,Yes,66,AI&ML,Placed,300000
+98,F,70.5,Central,62.5,Others,61,No,93.91,CORE,Not Placed,
+99,F,69,Central,73,Central,65,No,70,CORE,Placed,220000
+100,M,54,Central,82,Others,63,No,50,AI&ML,Not Placed,
+101,F,45,Others,57,Others,58,Yes,56.39,AI&ML,Not Placed,
+102,M,63,Central,72,Central,68,No,78,AI&ML,Placed,380000
+103,F,77,Others,61,Others,68,Yes,57.5,AI&ML,Placed,300000
+104,M,73,Central,78,Central,73,Yes,85,AI&ML,Placed,240000
+105,M,69,Central,63,Others,65,Yes,55,AI&ML,Placed,360000
+106,M,59,Central,64,Others,58,No,85,AI&ML,Not Placed,
+107,M,61.08,Others,50,Others,54,No,71,CORE,Not Placed,
+108,M,82,Others,90,Others,83,No,80,AI&ML,Placed,200000
+109,M,61,Central,82,Central,69,No,84,CORE,Placed,300000
+110,M,52,Central,63,Others,65,Yes,86,AI&ML,Not Placed,
+111,F,69.5,Central,70,Central,72,No,57.2,AI&ML,Placed,250000
+112,M,51,Others,54,Others,61,No,60,AI&ML,Not Placed,
+113,M,58,Others,61,Others,61,No,58,AI&ML,Placed,250000
+114,F,73.96,Others,79,Others,67,No,72.15,CORE,Placed,280000
+115,M,65,Central,68,Others,69,No,53.7,AI&ML,Placed,250000
+116,F,73,Others,63,Others,66,No,89,CORE,Placed,216000
+117,M,68.2,Central,72.8,Central,66.6,Yes,96,CORE,Placed,300000
+118,M,77,Others,75,Others,73,No,80,CORE,Placed,240000
+119,M,76,Central,80,Central,78,Yes,97,AI&ML,Placed,276000
+120,M,60.8,Central,68.4,Central,64.6,Yes,82.66,CORE,Placed,940000
+121,M,58,Others,40,Others,59,No,73,AI&ML,Not Placed,
+122,F,64,Central,67,Others,69.6,Yes,55.67,AI&ML,Placed,250000
+123,F,66.5,Central,66.8,Central,69.3,Yes,80.4,AI&ML,Placed,236000
+124,M,74,Others,59,Others,73,Yes,60,CORE,Placed,240000
+125,M,67,Central,71,Central,64.33,Yes,64,AI&ML,Placed,250000
+126,F,84,Central,73,Central,73,No,75,CORE,Placed,350000
+127,F,79,Others,61,Others,75.5,Yes,70,CORE,Placed,210000
+128,F,72,Others,60,Others,69,No,55.5,AI&ML,Placed,250000
+129,M,80.4,Central,73.4,Central,77.72,Yes,81.2,AI&ML,Placed,400000
+130,M,76.7,Central,89.7,Others,66,Yes,90,AI&ML,Placed,250000
+131,M,62,Central,65,Others,60,No,84,AI&ML,Not Placed,
+132,F,74.9,Others,57,Others,62,Yes,80,CORE,Placed,360000
+133,M,67,Others,68,Others,64,Yes,74.4,CORE,Placed,300000
+134,M,73,Central,64,Others,77,Yes,65,CORE,Placed,250000
+135,F,77.44,Central,92,Others,72,Yes,94,CORE,Placed,250000
+136,F,72,Central,56,Others,69,No,55.6,CORE,Placed,200000
+137,F,47,Central,59,Central,64,No,78,CORE,Not Placed,
+138,M,67,Others,63,Central,72,No,56,AI&ML,Placed,225000
+139,F,82,Others,64,Others,73,Yes,96,AI&ML,Placed,250000
+140,M,77,Central,70,Central,59,Yes,58,AI&ML,Placed,220000
+141,M,65,Central,64.8,Others,69.5,Yes,56,AI&ML,Placed,265000
+142,M,66,Central,64,Central,60,No,60,CORE,Not Placed,
+143,M,85,Central,60,Others,73.43,Yes,60,CORE,Placed,260000
+144,M,77.67,Others,64.89,Others,70.67,No,89,CORE,Placed,300000
+145,M,52,Others,50,Others,61,No,60,AI&ML,Not Placed,
+146,M,89.4,Others,65.66,Others,71.25,No,72,AI&ML,Placed,400000
+147,M,62,Central,63,Others,66,No,85,AI&ML,Placed,233000
+148,M,70,Central,74,Central,65,No,83,AI&ML,Placed,300000
+149,F,77,Central,86,Central,56,No,57,CORE,Placed,240000
+150,M,44,Central,58,Central,55,Yes,64.25,AI&ML,Not Placed,
+151,M,71,Central,58.66,Central,58,Yes,56,AI&ML,Placed,690000
+152,M,65,Central,65,Central,75,No,83,CORE,Placed,270000
+153,F,75.4,Others,60.5,Central,84,No,98,AI&ML,Placed,240000
+154,M,49,Others,59,Others,65,Yes,86,CORE,Placed,340000
+155,M,53,Central,63,Others,60,Yes,70,AI&ML,Placed,250000
+156,M,51.57,Others,74.66,Others,59.9,Yes,56.15,CORE,Not Placed,
+157,M,84.2,Central,69.4,Central,65,Yes,80,AI&ML,Placed,255000
+158,M,66.5,Central,62.5,Central,60.9,No,93.4,AI&ML,Placed,300000
+159,M,67,Others,63,Others,64,No,60,AI&ML,Not Placed,
+160,M,52,Central,49,Others,58,No,62,CORE,Not Placed,
+161,M,87,Central,74,Central,65,Yes,75,AI&ML,Placed,300000
+162,M,55.6,Others,51,Others,57.5,No,57.63,AI&ML,Not Placed,
+163,M,74.2,Central,87.6,Others,77.25,Yes,75.2,AI&ML,Placed,285000
+164,M,63,Others,67,Others,64,No,75,AI&ML,Placed,500000
+165,F,67.16,Central,72.5,Central,63.35,No,53.04,CORE,Placed,250000
+166,F,63.3,Central,78.33,Others,74,No,80,CORE,Not Placed,
+167,M,62,Others,62,Others,60,Yes,63,AI&ML,Placed,240000
+168,M,67.9,Others,62,Others,67,Yes,58.1,AI&ML,Not Placed,
+169,F,48,Central,51,Central,58,Yes,60,AI&ML,Not Placed,
+170,M,59.96,Others,42.16,Others,61.26,No,54.48,AI&ML,Not Placed,
+171,F,63.4,Others,67.2,Others,60,No,58.06,AI&ML,Not Placed,
+172,M,80,Others,80,Others,72,Yes,63.79,CORE,Placed,290000
+173,M,73,Others,58,Others,56,No,84,AI&ML,Placed,300000
+174,F,52,Others,52,Others,55,No,67,AI&ML,Not Placed,
+175,M,73.24,Others,50.83,Others,64.27,Yes,64,CORE,Placed,500000
+176,M,63,Others,62,Others,65,No,87.5,AI&ML,Not Placed,
+177,F,59,Central,60,Others,56,No,55,AI&ML,Placed,220000
+178,F,73,Central,97,Others,79,Yes,89,CORE,Placed,650000
+179,M,68,Others,56,Others,68,No,73,AI&ML,Placed,350000
+180,F,77.8,Central,64,Central,64.2,No,75.5,AI&ML,Not Placed,
+181,M,65,Central,71.5,Others,62.8,Yes,57,AI&ML,Placed,265000
+182,M,62,Central,60.33,Others,64.21,No,63,AI&ML,Not Placed,
+183,M,52,Others,65,Others,57,Yes,75,CORE,Not Placed,
+184,M,65,Central,77,Central,69,No,60,AI&ML,Placed,276000
+185,F,56.28,Others,62.83,Others,59.79,No,60,AI&ML,Not Placed,
+186,F,88,Central,72,Central,78,No,82,AI&ML,Placed,252000
+187,F,52,Central,64,Central,61,No,55,AI&ML,Not Placed,
+188,M,78.5,Central,65.5,Central,67,Yes,95,CORE,Placed,280000
+189,M,61.8,Others,47,Others,54.38,No,57,CORE,Not Placed,
+190,F,54,Central,77.6,Others,69.2,No,95.65,AI&ML,Not Placed,
+191,F,64,Others,70.2,Central,61,No,50,CORE,Not Placed,
+192,M,67,Others,61,Central,72,No,72,AI&ML,Placed,264000
+193,M,65.2,Central,61.4,Central,64.8,Yes,93.4,AI&ML,Placed,270000
+194,F,60,Central,63,Central,56,Yes,80,AI&ML,Placed,300000
+195,M,52,Others,55,Others,56.3,No,59,CORE,Not Placed,
+196,M,66,Central,76,Central,72,Yes,84,AI&ML,Placed,275000
+197,M,72,Others,63,Others,77.5,Yes,78,CORE,Placed,250000
+198,F,83.96,Others,53,Others,91,No,59.32,AI&ML,Placed,260000
+199,F,67,Central,70,Central,65,No,88,AI&ML,Not Placed,
+200,M,69,Others,65,Others,57,No,73,AI&ML,Placed,265000
+201,M,69,Others,60,Others,65,No,87.55,CORE,Placed,300000
+202,M,54.2,Central,63,Others,58,No,79,AI&ML,Not Placed,
+203,M,70,Central,63,Central,66,No,61.28,AI&ML,Placed,240000
+204,M,55.68,Others,61.33,Others,56.87,No,66,AI&ML,Placed,260000
+205,F,74,Others,73,Others,73,Yes,80,CORE,Placed,210000
+206,M,61,Others,62,Others,65,No,62,CORE,Placed,250000
+207,M,41,Central,42,Central,60,No,97,CORE,Not Placed,
+208,M,83.33,Central,78,Others,61,Yes,88.56,CORE,Placed,300000
+209,F,43,Central,60,Others,65,No,92.66,AI&ML,Not Placed,
+210,M,62,Central,72,Central,65,No,67,CORE,Placed,216000
+211,M,80.6,Others,82,Others,77.6,No,91,AI&ML,Placed,400000
+212,M,58,Others,60,Others,72,No,74,CORE,Placed,275000
+213,M,67,Others,67,Others,73,Yes,59,CORE,Placed,295000
+214,F,74,Others,66,Others,58,No,70,CORE,Placed,204000
+215,M,62,Central,58,Others,53,No,89,AI&ML,Not Placed,
