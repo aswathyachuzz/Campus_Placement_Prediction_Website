@@ -11,7 +11,7 @@ The Campus Placement Prediction Website aims to provide a platform for students 
 
 2. Student Profile Creation: Students can create their profiles by providing relevant information such as academic details,skill sets,internships,projects,and personal attributes. This information serves as input for the placement prediction model.
 
-3. Recruiters' Dashboard: Recruiters have access to a dedicated dashboard where they can browse student profiles, search for specific skill sets or qualifications, and view the predicted placement chances of individual students.
+3. Recruiters' Dashboard: Recruiters have access to a dedicated dashboard where they can browse student profiles,search for specific skill sets or qualifications, and view the predicted placement chances of individual students.
 
 4. Placement Prediction Model: The website employs a machine learning model that predicts the placement chances of students based on their profiles and historical placement data. The model considers factors such as academic performance, skills, internships, and other relevant attributes.
 
