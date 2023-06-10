@@ -17,7 +17,7 @@ The Campus Placement Prediction Website aims to provide a platform for students 
 
 5. Visualization and Reporting:The system provides visualizations and reports to help students and recruiters understand the prediction outcomes.These visualizations may include charts, graphs, or rankings to highlight the factors influencing placement chances and identify areas for improvement.
 
-6. Communication and Notifications:The website facilitates communication between students and recruiters through messaging or email notifications.It allows recruiters to send interview invitations or provide feedback to students regarding their profiles.
+6. Communication and Notifications: The website facilitates communication between students and recruiters through messaging or email notifications.It allows recruiters to send interview invitations or provide feedback to students regarding their profiles.
 
 7. Performance Metrics:The system tracks and analyzes performance metrics such as prediction accuracy, placement success rates,and student satisfaction.This helps in evaluating the effectiveness of the prediction model and improving its performance over time.
 
