@@ -1,4 +1,4 @@
-# Campus Placement Prediction Website
+# Campus Placement Prediction Web App
 
 ## Introduction
 The Campus Placement Prediction Website is designed to assist students and recruiters in predicting the placement outcomes of students based on their academic and personal attributes.This README file provides an overview of the Campus Placement Prediction Website,including its purpose,features,and usage.
