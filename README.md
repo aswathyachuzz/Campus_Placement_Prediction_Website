@@ -24,7 +24,7 @@ The Campus Placement Prediction Website aims to provide a platform for students 
 8. User Support and Help Center:The website includes user support features such as FAQs,documentation,and a help center to assist users with any queries or issues they may encounter while using the platform.
 
 ## Usage
-To use the Campus Placement Prediction Website, follow these steps:
+To use the Campus Placement Prediction Website,follow these steps:
 
 1. Website Setup: Set up the website on a web server or cloud platform that supports the required technologies,such as web development frameworks,database systems, and machine learning libraries.
 
