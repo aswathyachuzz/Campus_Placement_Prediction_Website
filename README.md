@@ -4,7 +4,7 @@
 The Campus Placement Prediction Website is designed to assist students and recruiters in predicting the placement outcomes of students based on their academic and personal attributes.This README file provides an overview of the Campus Placement Prediction Website,including its purpose,features,and usage.
 
 ## Purpose
-The Campus Placement Prediction Website aims to provide a platform for students and recruiters to predict the placement chances of students in campus recruitment drives. By analyzing various factors such as academic performance,skills,internships,and personal attributes, the system helps in assessing the likelihood of a student being placed in a company.This information can be valuable for students to prepare and improve their profiles and recruiters to make informed decisions during the hiring process.
+The Campus Placement Prediction Website aims to provide a platform for students and recruiters to predict the placement chances of students in campus recruitment drives. By analyzing various factors such as academic performance,skills,internships,and personal attributes,the system helps in assessing the likelihood of a student being placed in a company.This information can be valuable for students to prepare and improve their profiles and recruiters to make informed decisions during the hiring process.
 
 ## Features
 1. User Registration and Authentication: The website allows users to register and create accounts using their email addresses or social media accounts.It provides authentication mechanisms to ensure secure access to user profiles and data.
