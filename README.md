@@ -34,7 +34,7 @@ To use the Campus Placement Prediction Website, follow these steps:
 
 4. Recruiters' Dashboard: Create a dedicated dashboard for recruiters where they can search for students based on specific criteria, view profiles, and access placement prediction results.
 
-5. Placement Prediction Model Integration: Train a machine learning model using historical placement data and relevant attributes. Integrate the model with the website to generate placement predictions based on student profiles.
+5. Placement Prediction Model Integration:Train a machine learning model using historical placement data and relevant attributes. Integrate the model with the website to generate placement predictions based on student profiles.
 
 6. Visualization and Reporting: Design visualizations and reports to present the prediction outcomes in a clear and understandable format. Utilize charts, graphs, or rankings to highlight key factors influencing placement chances.
 
