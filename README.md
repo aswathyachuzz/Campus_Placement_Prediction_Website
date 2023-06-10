@@ -32,7 +32,7 @@ To use the Campus Placement Prediction Website, follow these steps:
 
 3. Student Profile Creation: Develop a user-friendly interface for students to create their profiles by providing relevant information. Design forms and input fields to capture academic details, skills, internships,and personal attributes.
 
-4. Recruiters' Dashboard: Create a dedicated dashboard for recruiters where they can search for students based on specific criteria, view profiles, and access placement prediction results.
+4. Recruiters' Dashboard: Create a dedicated dashboard for recruiters where they can search for students based on specific criteria,view profiles, and access placement prediction results.
 
 5. Placement Prediction Model Integration:Train a machine learning model using historical placement data and relevant attributes. Integrate the model with the website to generate placement predictions based on student profiles.
 
