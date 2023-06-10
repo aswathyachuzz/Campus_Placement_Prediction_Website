@@ -9,7 +9,7 @@ The Campus Placement Prediction Website aims to provide a platform for students 
 ## Features
 1. User Registration and Authentication: The website allows users to register and create accounts using their email addresses or social media accounts. It provides authentication mechanisms to ensure secure access to user profiles and data.
 
-2. Student Profile Creation: Students can create their profiles by providing relevant information such as academic details, skill sets, internships, projects, and personal attributes. This information serves as input for the placement prediction model.
+2. Student Profile Creation: Students can create their profiles by providing relevant information such as academic details,skill sets, internships, projects, and personal attributes. This information serves as input for the placement prediction model.
 
 3. Recruiters' Dashboard: Recruiters have access to a dedicated dashboard where they can browse student profiles, search for specific skill sets or qualifications, and view the predicted placement chances of individual students.
 
