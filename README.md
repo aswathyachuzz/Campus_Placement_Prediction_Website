@@ -21,7 +21,7 @@ The Campus Placement Prediction Website aims to provide a platform for students 
 
 7. Performance Metrics:The system tracks and analyzes performance metrics such as prediction accuracy, placement success rates,and student satisfaction.This helps in evaluating the effectiveness of the prediction model and improving its performance over time.
 
-8. User Support and Help Center:The website includes user support features such as FAQs,documentation,and a help center to assist users with any queries or issues they may encounter while using the platform.
+8. User Support and Help Center:The website includes user support features such as FAQs, documentation,and a help center to assist users with any queries or issues they may encounter while using the platform.
 
 ## Usage
 To use the Campus Placement Prediction Website,follow these steps:
