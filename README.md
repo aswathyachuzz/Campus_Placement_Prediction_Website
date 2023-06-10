@@ -28,7 +28,7 @@ To use the Campus Placement Prediction Website, follow these steps:
 
 1. Website Setup: Set up the website on a web server or cloud platform that supports the required technologies, such as web development frameworks, database systems, and machine learning libraries.
 
-2. User Registration and Authentication: Implement user registration and authentication mechanisms to allow students and recruiters to create accounts and securely log in.
+2. User Registration and Authentication:Implement user registration and authentication mechanisms to allow students and recruiters to create accounts and securely log in.
 
 3. Student Profile Creation: Develop a user-friendly interface for students to create their profiles by providing relevant information. Design forms and input fields to capture academic details, skills, internships,and personal attributes.
 
